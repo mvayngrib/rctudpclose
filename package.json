@@ -7,9 +7,11 @@
     "test": "jest"
   },
   "dependencies": {
+    "add": "^2.0.6",
     "react": "~15.4.0",
     "react-native": "0.41.2",
-    "react-native-udp": "2.0.0"
+    "react-native-udp": "https://github.com/tradle/react-native-udp",
+    "yarn": "^0.20.3"
   },
   "devDependencies": {
     "babel-jest": "18.0.0",
